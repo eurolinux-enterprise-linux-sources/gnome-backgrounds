@@ -1,0 +1,21 @@
+AC_INIT([gnome-backgrounds], [2.28.0])
+AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([1.9])
+
+# Internationalization:
+GETTEXT_PACKAGE=gnome-backgrounds
+AC_SUBST(GETTEXT_PACKAGE)
+AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [The domain name to use with gettext.])
+
+AM_GLIB_GNU_GETTEXT()
+IT_PROG_INTLTOOL([0.35.0])
+
+
+AM_MAINTAINER_MODE
+
+AC_OUTPUT([
+Makefile
+abstract/Makefile
+nature/Makefile
+po/Makefile.in
+])

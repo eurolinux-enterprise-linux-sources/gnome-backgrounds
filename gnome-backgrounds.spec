@@ -1,12 +1,13 @@
 Summary: Desktop backgrounds packaged with the GNOME desktop
 Name: gnome-backgrounds
 Version: 3.14.1
-Release: 1%{?dist}
+Release: 2%{?dist}
 License: GPLv2
 Group: Applications/Multimedia
 URL: http://www.gnome.org
 #VCS: git:git://git.gnome.org/gnome-backgrounds
 Source0: http://download.gnome.org/sources/gnome-backgrounds/3.14/%{name}-%{version}.tar.xz
+Patch0: gnome-backgrounds-3.14.1-EL7.3_translations.patch
 BuildArch: noarch
 BuildRequires: intltool
 BuildRequires: gettext
@@ -18,6 +19,7 @@ with the GNOME desktop.
 
 %prep
 %setup -q
+%patch0 -p1 -b .translations
 
 %build
 %configure
@@ -37,6 +39,10 @@ rm -rf $RPM_BUILD_ROOT%{_datadir}/locale
 %{_datadir}/backgrounds/*
 
 %changelog
+* Fri Jul 01 2016 Kalev Lember <klember@redhat.com> - 3.14.1-2
+- Update translations
+- Resolves: #1304293
+
 * Wed Apr 29 2015 Matthias Clasen <mclasen@redhat.com> - 3.14.1-1
 - Update to 3.14.1
 - Resolves: #1174385

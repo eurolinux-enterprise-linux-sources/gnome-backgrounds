@@ -1,0 +1,1151 @@
+diff -urN gnome-backgrounds-3.14.1/po/de.po gnome-backgrounds-3.14.1_localized/po/de.po
+--- gnome-backgrounds-3.14.1/po/de.po	2014-09-01 21:35:59.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/de.po	2016-06-25 07:54:19.840134418 +0530
+@@ -2,7 +2,7 @@
+ # Copyright (C) 2004 THE gnome-backgrounds'S COPYRIGHT HOLDER
+ # This file is distributed under the same license as the gnome-backgrounds
+ # package.
+-#
++# 
+ # Hendrik Brandt <heb@gnome-de.org>, 2004.
+ # Hendrik Richter <hendi@gnome-de.org>, 2006.
+ # Mario Blättermann <mario.blaettermann@gmail.com>, 2011, 2012.
+@@ -10,22 +10,20 @@
+ # Aljosha Papsch <joschi.papsch@yahoo.de>, 2011.
+ # Tobias Endrigkeit <tobiasendrigkeit@outlook.com>, 2012, 2013.
+ # Wolfgang Stöggl <c72578@yahoo.de>, 2014.
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds master\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-08-14 18:04+0000\n"
+-"PO-Revision-Date: 2014-08-15 07:38+0100\n"
+-"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
+-"Language-Team: Deutsch <gnome-de@gnome.org>\n"
+-"Language: de\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-08-15 06:38+0000\n"
++"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
++"Language-Team: Deutsch <gnome-de@gnome.org>\n"
++"Language: de\n"
+ "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+-"X-Generator: Poedit 1.6.7\n"
++"X-Generator: Zanata 3.8.2\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+ msgid "Default Background"
+@@ -132,94 +130,3 @@
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+ msgid "Whispy Tails"
+ msgstr "Farbloser Ausläufer"
+-
+-#~ msgid "Blue Marble"
+-#~ msgstr "Blauer Planet"
+-
+-#~ msgid "Spaceflare"
+-#~ msgstr "Leuchtsignale im Weltall"
+-
+-#~ msgid "Stripes"
+-#~ msgstr "Streifen"
+-
+-#~ msgid "Stripes 3.4"
+-#~ msgstr "Streifen 3.4"
+-
+-#~ msgid "Sunset"
+-#~ msgstr "Sonnenuntergang"
+-
+-#~ msgid "Tulip"
+-#~ msgstr "Tulpen"
+-
+-#~ msgid "Underlit"
+-#~ msgstr "Licht am Boden"
+-
+-#~ msgid "Wood"
+-#~ msgstr "Holzfasern"
+-
+-#~ msgid "End Bell"
+-#~ msgstr "Glockenblume"
+-
+-#~ msgid "Stamps"
+-#~ msgstr "Briefmarken"
+-
+-# evtl auch »Tropeneinschlag«
+-#~ msgid "Aqua"
+-#~ msgstr "Wasser"
+-
+-#~ msgid "Fresh Flower"
+-#~ msgstr "Spätsommer"
+-
+-#~ msgid "Garden"
+-#~ msgstr "Hochsommer"
+-
+-#~ msgid "Green Meadow"
+-#~ msgstr "Grüner Mikrokosmos"
+-
+-#~ msgid "Spaceflare Nova"
+-#~ msgstr "Leuchtfeuer im Weltall"
+-
+-#~ msgid "Spaceflare Supernova"
+-#~ msgstr "Supernova"
+-
+-#~ msgid "Sundown Dunes"
+-#~ msgstr "Abendwüste"
+-
+-#~ msgid "Terraform Blue"
+-#~ msgstr "Blaue Landmasse"
+-
+-#~ msgid "Terraform Orange"
+-#~ msgstr "Orange Landmasse"
+-
+-#~ msgid "Two Wings"
+-#~ msgstr "Nachzügler"
+-
+-#~ msgid "Yellow Flower"
+-#~ msgstr "Frühling"
+-
+-#~ msgid "Flow"
+-#~ msgstr "Blasen"
+-
+-#~ msgid "Gulp"
+-#~ msgstr "Schleier"
+-
+-#~ msgid "Silk"
+-#~ msgstr "Orange Wellen"
+-
+-#~ msgid "Spring"
+-#~ msgstr "Frühjahr"
+-
+-#~ msgid "Cosmos"
+-#~ msgstr "Kosmos"
+-
+-#~ msgid "Dune"
+-#~ msgstr "Dünenland"
+-
+-#~ msgid "Lady Bird"
+-#~ msgstr "Marienkäfer"
+-
+-#~ msgid "Rain Drops"
+-#~ msgstr "Regenzeit"
+-
+-#~ msgid "Storm"
+-#~ msgstr "Sturmfront"
+diff -urN gnome-backgrounds-3.14.1/po/es.po gnome-backgrounds-3.14.1_localized/po/es.po
+--- gnome-backgrounds-3.14.1/po/es.po	2014-09-03 20:43:18.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/es.po	2016-06-25 07:54:19.842134418 +0530
+@@ -3,25 +3,23 @@
+ # translation of es.po to
+ # This file is distributed under the same license as the PACKAGE package.
+ # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2004.
+-#
++# 
+ # Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2005.
+ # Jorge González <jorgegonz@svn.gnome.org>, 2008, 2011.
+ # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011, 2012, 2013, 2014.
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds.master\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-08-19 06:03+0000\n"
+-"PO-Revision-Date: 2014-08-19 12:21+0200\n"
+-"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
+-"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
+-"Language: \n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+-"X-Generator: Gtranslator 2.91.6\n"
++"PO-Revision-Date: 2014-08-18 10:21+0000\n"
++"Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
++"Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
++"Language: es\n"
++"X-Generator: Zanata 3.8.2\n"
+ "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+@@ -129,93 +127,3 @@
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+ msgid "Whispy Tails"
+ msgstr "Espigas azuladas"
+-
+-#~ msgid "Blue Marble"
+-#~ msgstr "Planeta Tierra"
+-
+-#~ msgid "Spaceflare"
+-#~ msgstr "Destello"
+-
+-#~ msgid "Stripes"
+-#~ msgstr "Rayas"
+-
+-#~ msgid "Stripes 3.4"
+-#~ msgstr "Rayas 3.4"
+-
+-#~ msgid "Sunset"
+-#~ msgstr "Ocaso"
+-
+-#~ msgid "Tulip"
+-#~ msgstr "Tulipanes"
+-
+-#~ msgid "Underlit"
+-#~ msgstr "Oscuridad"
+-
+-#~ msgid "Wood"
+-#~ msgstr "Madera"
+-
+-#~ msgid "End Bell"
+-#~ msgstr "Campana final"
+-
+-#~ msgid "Stamps"
+-#~ msgstr "Sellos"
+-
+-#~ msgid "Aqua"
+-#~ msgstr "Agua"
+-
+-#~ msgid "Fresh Flower"
+-#~ msgstr "Flor fresca"
+-
+-#~ msgid "Garden"
+-#~ msgstr "Jardín"
+-
+-#~ msgid "Green Meadow"
+-#~ msgstr "Pradera verde"
+-
+-#~ msgid "Spaceflare Nova"
+-#~ msgstr "Erupción de nova"
+-
+-#~ msgid "Spaceflare Supernova"
+-#~ msgstr "Erupción de supernova"
+-
+-#~ msgid "Sundown Dunes"
+-#~ msgstr "Ocaso en las dunas"
+-
+-#~ msgid "Terraform Blue"
+-#~ msgstr "Tierra azul"
+-
+-#~ msgid "Terraform Orange"
+-#~ msgstr "Tierra naranja"
+-
+-#~ msgid "Two Wings"
+-#~ msgstr "Dos alas"
+-
+-#~ msgid "Yellow Flower"
+-#~ msgstr "Flor amarilla"
+-
+-#~ msgid "Flow"
+-#~ msgstr "Flujo"
+-
+-#~ msgid "Gulp"
+-#~ msgstr "Gulp"
+-
+-#~ msgid "Silk"
+-#~ msgstr "Seda"
+-
+-#~ msgid "Spring"
+-#~ msgstr "Elástico"
+-
+-#~ msgid "Cosmos"
+-#~ msgstr "Cosmos"
+-
+-#~ msgid "Dune"
+-#~ msgstr "Duna"
+-
+-#~ msgid "Lady Bird"
+-#~ msgstr "Mariquita"
+-
+-#~ msgid "Rain Drops"
+-#~ msgstr "Gotas de lluvia"
+-
+-#~ msgid "Storm"
+-#~ msgstr "Tormenta"
+diff -urN gnome-backgrounds-3.14.1/po/fr.po gnome-backgrounds-3.14.1_localized/po/fr.po
+--- gnome-backgrounds-3.14.1/po/fr.po	2014-09-03 20:43:18.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/fr.po	2016-06-25 07:54:19.844134418 +0530
+@@ -1,27 +1,26 @@
+ # French translation of gnome-backgrounds.
+ # Copyright (C) 1998-2014 Free Software Foundation, Inc.
+ # This file is distributed under the same license as the gnome-backgrounds package.
+-#
++# 
+ # Benoît Dejean <TazForEver@dlfp.org>, 2005.
+ # Thierry Moisan <thierryn@videotron.ca>, 2005.
+ # Stéphane Raimbault <stephane.raimbault@free.fr>, 2006
+ # Robert-André Mauchin <zebob.m@pengzone.org>, 2008.
+ # Bruno Brouard <annoa.b@gmail.com>, 2010,2012
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds master\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-09-01 18:01+0000\n"
+-"PO-Revision-Date: 2014-09-01 23:21+0200\n"
+-"Last-Translator: Claude Paroz <claude@2xlibre.net>\n"
+-"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
+-"Language: fr\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-09-01 09:21+0000\n"
++"Last-Translator: Claude Paroz <claude@2xlibre.net>\n"
++"Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
++"Language: fr\n"
+ "Plural-Forms: nplurals=2; plural=n>1;\n"
++"X-Generator: Zanata 3.8.2\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+ msgid "Default Background"
+diff -urN gnome-backgrounds-3.14.1/po/it.po gnome-backgrounds-3.14.1_localized/po/it.po
+--- gnome-backgrounds-3.14.1/po/it.po	2014-10-13 20:53:35.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/it.po	2016-06-25 07:54:19.846134417 +0530
+@@ -4,22 +4,20 @@
+ # Ida Gasparretti <vampiria74@tin.it>, 2007.
+ # Flavia Weisghizzi <flavia.weisghizzi@ubuntu.com>, 2008, 2011.
+ # Milo Casagrande <milo@milo.name>, 2012, 2013, 2014.
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-10-05 06:05+0000\n"
+-"PO-Revision-Date: 2014-10-05 15:24+0100\n"
+-"Last-Translator: Milo Casagrande <milo@milo.name>\n"
+-"Language-Team: Italian <tp@lists.linux.it>\n"
+-"Language: it\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-10-05 02:24+0000\n"
++"Last-Translator: Milo Casagrande <milo@milo.name>\n"
++"Language-Team: Italian <tp@lists.linux.it>\n"
++"Language: it\n"
+ "Plural-Forms: nplurals=2; plural=(n!=1);\n"
+-"X-Generator: Poedit 1.6.9\n"
++"X-Generator: Zanata 3.8.2\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+ msgid "Default Background"
+diff -urN gnome-backgrounds-3.14.1/po/ja.po gnome-backgrounds-3.14.1_localized/po/ja.po
+--- gnome-backgrounds-3.14.1/po/ja.po	2014-09-01 21:35:59.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/ja.po	2016-06-25 07:54:19.847134417 +0530
+@@ -7,21 +7,25 @@
+ # Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2011.
+ # Hideki Yamane <henrich@debian.org>, 2011.
+ # Noriko Mizumoto <noriko@fedoraproject.org>, 2012.
+-#
++# tnagamot <tnagamot@redhat.com>, 2016. #zanata
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds master\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2012-09-11 01:01+0000\n"
+-"PO-Revision-Date: 2012-09-11 12:32+0000\n"
+-"Last-Translator: Noriko Mizumoto <noriko@fedoraproject.org>\n"
+-"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
+-"Language: ja\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2016-05-19 04:23+0000\n"
++"Last-Translator: tnagamot <tnagamot@redhat.com>\n"
++"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
++"Language: ja\n"
+ "Plural-Forms: nplurals=1; plural=0;\n"
++"X-Generator: Zanata 3.8.2\n"
++
++#: ../backgrounds/adwaita.xml.in.in.h:1
++msgid "Default Background"
++msgstr "デフォルトの背景"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+ #. You might want to translate it into the equivalent words of your language
+@@ -29,11 +33,11 @@
+ msgid "Blinds"
+ msgstr "ブラインド"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+-msgid "Blue Marble"
+-msgstr "ブルーマーブル"
++msgid "Bokeh Tails"
++msgstr "Bokeh Tails"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+ #. You might want to translate it into the equivalent words of your language
+@@ -41,77 +45,77 @@
+ msgid "Dandelion"
+ msgstr "タンポポ"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+-msgid "Pink Fabric"
+-msgstr "ピンクの布"
++msgid "Dark Ivy"
++msgstr "ダークアイビー"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+-msgid "Foot Fall"
+-msgstr "足音"
++msgid "Pink Fabric"
++msgstr "ピンクの布"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+-msgid "Mirror"
+-msgstr "鏡"
++msgid "Flower Bed"
++msgstr "花壇"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+-msgid "Road"
+-msgstr "道"
++msgid "Foot Fall"
++msgstr "足音"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+-msgid "Sandstone"
+-msgstr "砂岩"
++msgid "Adwaita"
++msgstr "Adwaita"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+-msgid "Spaceflare"
+-msgstr "宇宙フレア"
++msgid "Lock Screen"
++msgstr "ロックスクリーン"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+-msgid "Stripes"
+-msgstr "ストライプ"
++msgid "Mirror"
++msgstr "鏡"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+-msgid "Stripes 3.4"
+-msgstr "ストライプ 3.4"
++msgid "Road"
++msgstr "道"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+-msgid "Sunset"
+-msgstr "日暮れ"
++msgid "Sandstone"
++msgstr "砂岩"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+-msgid "Terraform Green"
+-msgstr "テラフォーム 緑"
++msgid "Signpost of the Shadows"
++msgstr "道路標識の影"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+-msgid "Tulip"
+-msgstr "チューリップ"
++msgid "Stones"
++msgstr "石"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+-msgid "Underlit"
+-msgstr "薄暗い"
++msgid "Terraform Green"
++msgstr "テラフォーム 緑"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+ #. You might want to translate it into the equivalent words of your language
+@@ -119,74 +123,8 @@
+ msgid "Waves"
+ msgstr "ウェーブ"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+-msgid "Wood"
+-msgstr "ウッド"
+-
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
+-#. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+-msgid "End Bell"
+-msgstr "ベルフラワー"
+-
+-#~ msgid "Aqua"
+-#~ msgstr "アクア"
+-
+-#~ msgid "Fresh Flower"
+-#~ msgstr "みずみずしい花"
+-
+-#~ msgid "Garden"
+-#~ msgstr "庭"
+-
+-#~ msgid "Green Meadow"
+-#~ msgstr "緑の草地"
+-
+-#~ msgid "Spaceflare Nova"
+-#~ msgstr "宇宙フレア 新星"
+-
+-#~ msgid "Spaceflare Supernova"
+-#~ msgstr "宇宙フレア 超新星"
+-
+-#~ msgid "Sundown Dunes"
+-#~ msgstr "夕暮れの砂丘"
+-
+-#~ msgid "Terraform Blue"
+-#~ msgstr "テラフォーム 青"
+-
+-#~ msgid "Terraform Orange"
+-#~ msgstr "テラフォーム オレンジ"
+-
+-#~ msgid "Two Wings"
+-#~ msgstr "二つの羽"
+-
+-#~ msgid "Yellow Flower"
+-#~ msgstr "黄色い花"
+-
+-#~ msgid "Flow"
+-#~ msgstr "フロー"
+-
+-#~ msgid "Gulp"
+-#~ msgstr "ガルプ"
+-
+-#~ msgid "Silk"
+-#~ msgstr "シルク"
+-
+-#~ msgid "Spring"
+-#~ msgstr "スプリング"
+-
+-#~ msgid "Cosmos"
+-#~ msgstr "宇宙"
+-
+-#~ msgid "Dune"
+-#~ msgstr "デューン"
+-
+-#~ msgid "Lady Bird"
+-#~ msgstr "レィディー・バード"
+-
+-#~ msgid "Rain Drops"
+-#~ msgstr "雨のしずく"
+-
+-#~ msgid "Storm"
+-#~ msgstr "ストーム"
++msgid "Whispy Tails"
++msgstr "Whispy Tails"
+diff -urN gnome-backgrounds-3.14.1/po/ko.po gnome-backgrounds-3.14.1_localized/po/ko.po
+--- gnome-backgrounds-3.14.1/po/ko.po	2014-09-09 15:13:07.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/ko.po	2016-06-25 07:54:19.849134417 +0530
+@@ -4,21 +4,19 @@
+ # Young-Ho Cha <ganadist@gmail.com>, 2005-2008.
+ # Changwoo Ryu <cwryu@debian.org>, 2011.
+ # Seong-ho Cho <darkcircle.0426@gmail.com>, 2012, 2014.
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-09-07 06:00+0000\n"
+-"PO-Revision-Date: 2014-09-07 18:18+0900\n"
+-"Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
+-"Language-Team: GNOME Korea <gnome-kr@googlegroups.com>\n"
+-"Language: Korean\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+-"X-Generator: Poedit 1.5.5\n"
++"PO-Revision-Date: 2014-09-07 09:18+0000\n"
++"Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
++"Language-Team: GNOME Korea <gnome-kr@googlegroups.com>\n"
++"Language: ko\n"
++"X-Generator: Zanata 3.8.2\n"
+ "Plural-Forms: nplurals=1; plural=0;\n"
+ "X-Poedit-SourceCharset: UTF-8\n"
+ 
+diff -urN gnome-backgrounds-3.14.1/po/pt_BR.po gnome-backgrounds-3.14.1_localized/po/pt_BR.po
+--- gnome-backgrounds-3.14.1/po/pt_BR.po	2014-09-01 21:35:59.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/pt_BR.po	2016-06-25 07:54:19.851134417 +0530
+@@ -9,22 +9,20 @@
+ # Rodrigo Padula de Oliveira <contato@rodrigopadula.com>, 2011
+ # Gabriel Speckhahn <gabspeck@gmail.com>, 2012.
+ # Enrico Nicoletto <liverig@gmail.com>, 2013.
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-08-10 06:04+0000\n"
+-"PO-Revision-Date: 2014-08-10 11:24-0300\n"
+-"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
+-"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+-"Language: pt_BR\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2014-08-10 02:24+0000\n"
++"Last-Translator: Rafael Ferreira <rafael.f.f1@gmail.com>\n"
++"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
++"Language: pt-BR\n"
+ "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+-"X-Generator: Poedit 1.6.5\n"
++"X-Generator: Zanata 3.8.2\n"
+ "X-Project-Style: gnome\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+@@ -134,93 +132,3 @@
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+ msgid "Whispy Tails"
+ msgstr "Hastes grisalhas"
+-
+-#~ msgid "Blue Marble"
+-#~ msgstr "Mármore azul"
+-
+-#~ msgid "Spaceflare"
+-#~ msgstr "Luz espacial"
+-
+-#~ msgid "Stripes"
+-#~ msgstr "Listras"
+-
+-#~ msgid "Stripes 3.4"
+-#~ msgstr "Listras 3.4"
+-
+-#~ msgid "Sunset"
+-#~ msgstr "Pôr do sol"
+-
+-#~ msgid "Tulip"
+-#~ msgstr "Tulipa"
+-
+-#~ msgid "Underlit"
+-#~ msgstr "Luz fraca"
+-
+-#~ msgid "Wood"
+-#~ msgstr "Madeira"
+-
+-#~ msgid "End Bell"
+-#~ msgstr "Campânula"
+-
+-#~ msgid "Stamps"
+-#~ msgstr "Selos"
+-
+-#~ msgid "Aqua"
+-#~ msgstr "Água"
+-
+-#~ msgid "Fresh Flower"
+-#~ msgstr "Flor fresca"
+-
+-#~ msgid "Garden"
+-#~ msgstr "Jardim"
+-
+-#~ msgid "Green Meadow"
+-#~ msgstr "Planície verde"
+-
+-#~ msgid "Spaceflare Nova"
+-#~ msgstr "Luz espacial nova"
+-
+-#~ msgid "Spaceflare Supernova"
+-#~ msgstr "Luz espacial supernova"
+-
+-#~ msgid "Sundown Dunes"
+-#~ msgstr "Dunas do pôr do sol"
+-
+-#~ msgid "Terraform Blue"
+-#~ msgstr "Terraformação azul"
+-
+-#~ msgid "Terraform Orange"
+-#~ msgstr "Terraformação laranja"
+-
+-#~ msgid "Two Wings"
+-#~ msgstr "Duas asas"
+-
+-#~ msgid "Yellow Flower"
+-#~ msgstr "Flor amarela"
+-
+-#~ msgid "Flow"
+-#~ msgstr "Fluxo"
+-
+-#~ msgid "Gulp"
+-#~ msgstr "Gole"
+-
+-#~ msgid "Silk"
+-#~ msgstr "Seda"
+-
+-#~ msgid "Spring"
+-#~ msgstr "Primavera"
+-
+-#~ msgid "Cosmos"
+-#~ msgstr "Cosmos"
+-
+-#~ msgid "Dune"
+-#~ msgstr "Duna"
+-
+-#~ msgid "Lady Bird"
+-#~ msgstr "Passarinha"
+-
+-#~ msgid "Rain Drops"
+-#~ msgstr "Gotas de chuva"
+-
+-#~ msgid "Storm"
+-#~ msgstr "Tempestade"
+diff -urN gnome-backgrounds-3.14.1/po/ru.po gnome-backgrounds-3.14.1_localized/po/ru.po
+--- gnome-backgrounds-3.14.1/po/ru.po	2014-09-03 20:43:18.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/ru.po	2016-06-25 07:54:19.853134417 +0530
+@@ -6,23 +6,21 @@
+ # Alexsey Nadtochey <irbis4lan@yandex.com>, 2012.
+ # Yuri Myasoedov <omerta13@yandex.ru>, 2012.
+ # Stas Solovey <whats_up@tut.by>, 2014.
+-#
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds.HEAD.ru\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-08-21 18:05+0000\n"
+-"PO-Revision-Date: 2014-08-21 22:13+0300\n"
+-"Last-Translator: Stas Solovey <whats_up@tut.by>\n"
+-"Language-Team: Русский <gnome-cyr@gnome.org>\n"
+-"Language: ru\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+-"X-Generator: Gtranslator 2.91.6\n"
+-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
++"PO-Revision-Date: 2014-08-21 07:13+0000\n"
++"Last-Translator: Stas Solovey <whats_up@tut.by>\n"
++"Language-Team: Русский <gnome-cyr@gnome.org>\n"
++"Language: ru\n"
++"X-Generator: Zanata 3.8.2\n"
++"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
++"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+ msgid "Default Background"
+@@ -129,66 +127,3 @@
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+ msgid "Whispy Tails"
+ msgstr "Тонкие стебли"
+-
+-#~ msgid "Blue Marble"
+-#~ msgstr "Синий мрамор"
+-
+-#~ msgid "Spaceflare"
+-#~ msgstr "Взрыв"
+-
+-#~ msgid "Stripes"
+-#~ msgstr "Полосы"
+-
+-#~ msgid "Stripes 3.4"
+-#~ msgstr "Полосы 3.4"
+-
+-#~ msgid "Sunset"
+-#~ msgstr "Закат"
+-
+-#~ msgid "Tulip"
+-#~ msgstr "Тюльпан"
+-
+-#~ msgid "Underlit"
+-#~ msgstr "Подсветка"
+-
+-#~ msgid "Wood"
+-#~ msgstr "Древесина"
+-
+-#~ msgid "End Bell"
+-#~ msgstr "Колокольчик"
+-
+-#~ msgid "Stamps"
+-#~ msgstr "Марки"
+-
+-#~ msgid "Aqua"
+-#~ msgstr "Вода"
+-
+-#~ msgid "Fresh Flower"
+-#~ msgstr "Оранжевый цветок"
+-
+-#~ msgid "Garden"
+-#~ msgstr "Сад"
+-
+-#~ msgid "Green Meadow"
+-#~ msgstr "Зелёный луг"
+-
+-#~ msgid "Spaceflare Nova"
+-#~ msgstr "Взрыв новой звезды"
+-
+-#~ msgid "Spaceflare Supernova"
+-#~ msgstr "Взрыв сверхновой звезды"
+-
+-#~ msgid "Sundown Dunes"
+-#~ msgstr "Дюны на закате"
+-
+-#~ msgid "Terraform Blue"
+-#~ msgstr "Синяя терраформа"
+-
+-#~ msgid "Terraform Orange"
+-#~ msgstr "Оранжевая терраформа"
+-
+-#~ msgid "Two Wings"
+-#~ msgstr "Два крыла"
+-
+-#~ msgid "Yellow Flower"
+-#~ msgstr "Жёлтый цветок"
+diff -urN gnome-backgrounds-3.14.1/po/zh_CN.po gnome-backgrounds-3.14.1_localized/po/zh_CN.po
+--- gnome-backgrounds-3.14.1/po/zh_CN.po	2014-09-01 21:35:59.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/zh_CN.po	2016-06-25 07:54:19.855134417 +0530
+@@ -5,21 +5,25 @@
+ # Eleanor Chen <chenyueg@gmail.com>, 2011.
+ # xxlinux <xxlinux@126.com>, 2011.
+ # Cheng Lu <chenglu1990@gmail.com>, 2012.
+-#
++# xhuang <xhuang@redhat.com>, 2016. #zanata
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-backgrounds master\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2013-12-18 19:56+0000\n"
+-"PO-Revision-Date: 2013-12-28 21:09+0800\n"
+-"Last-Translator: Cheng Lu <chenglu1990@gmail.com>\n"
+-"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+-"Language: zh_CN\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
++"PO-Revision-Date: 2016-06-06 01:54+0000\n"
++"Last-Translator: xhuang <xhuang@redhat.com>\n"
++"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
++"Language: zh-CN\n"
+ "Plural-Forms: nplurals=1; plural=0;\n"
++"X-Generator: Zanata 3.8.2\n"
++
++#: ../backgrounds/adwaita.xml.in.in.h:1
++msgid "Default Background"
++msgstr "默认背景"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+ #. You might want to translate it into the equivalent words of your language
+@@ -63,84 +67,62 @@
+ msgid "Foot Fall"
+ msgstr "点滴足迹"
+ 
+-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
+ #. You might want to translate it into the equivalent words of your language
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
++msgid "Adwaita"
++msgstr "Adwaita"
++
++#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
++#. You might want to translate it into the equivalent words of your language
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+ msgid "Lock Screen"
+ msgstr "帘影迷离"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+ msgid "Mirror"
+ msgstr "天光水色"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+ msgid "Road"
+ msgstr "野阔途远"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+ msgid "Sandstone"
+ msgstr "赤砂岩壁"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+ msgid "Signpost of the Shadows"
+ msgstr "路标之影"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+-#| msgid "Sandstone"
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+ msgid "Stones"
+ msgstr "卵石回忆"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+ msgid "Terraform Green"
+ msgstr "地貌之绿"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+ msgid "Waves"
+ msgstr "浪涌苍穹"
+ 
+ #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+ #. You might want to translate it into the equivalent words of your language
+-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
++#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+ msgid "Whispy Tails"
+ msgstr "风舞流年"
+-
+-#~ msgid "Blue Marble"
+-#~ msgstr "蓝色星球"
+-
+-#~ msgid "Spaceflare"
+-#~ msgstr "星火光影"
+-
+-#~ msgid "Stripes"
+-#~ msgstr "条纹律动"
+-
+-#~ msgid "Stripes 3.4"
+-#~ msgstr "条纹 3.4"
+-
+-#~ msgid "Sunset"
+-#~ msgstr "日落紫霞"
+-
+-#~ msgid "Tulip"
+-#~ msgstr "郁金香"
+-
+-#~ msgid "Wood"
+-#~ msgstr "木纹"
+-
+-#~ msgid "End Bell"
+-#~ msgstr "风铃花"
+-
+-#~ msgid "Underlit"
+-#~ msgstr "暗焰"
+diff -urN gnome-backgrounds-3.14.1/po/zh_TW.po gnome-backgrounds-3.14.1_localized/po/zh_TW.po
+--- gnome-backgrounds-3.14.1/po/zh_TW.po	2014-09-03 20:43:18.000000000 +0530
++++ gnome-backgrounds-3.14.1_localized/po/zh_TW.po	2016-06-25 07:54:19.858134417 +0530
+@@ -2,22 +2,21 @@
+ # Copyright (C) 2005, 06 Free Software Foundation, Inc.
+ # Woodman Tuen <wmtuen@gmail.com>, 2005-06.
+ # Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2008.
+-#
+-#
++# 
+ msgid ""
+ msgstr ""
+ "Project-Id-Version: gnome-background 3.0.0\n"
+-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+-"backgrounds&keywords=I18N+L10N&component=general\n"
+-"POT-Creation-Date: 2014-08-25 18:03+0000\n"
+-"PO-Revision-Date: 2014-08-26 06:51+0800\n"
+-"Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
+-"Language-Team: Chinese (Taiwan) <community@linuxhall.org>\n"
+-"Language: zh_TW\n"
++"Report-Msgid-Bugs-To: \n"
++"POT-Creation-Date: 2016-04-19 10:20+0530\n"
+ "MIME-Version: 1.0\n"
+ "Content-Type: text/plain; charset=UTF-8\n"
+ "Content-Transfer-Encoding: 8bit\n"
+-"X-Generator: Poedit 1.6.5\n"
++"PO-Revision-Date: 2014-08-25 10:51+0000\n"
++"Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
++"Language-Team: Chinese (Taiwan) <community@linuxhall.org>\n"
++"Language: zh-TW\n"
++"X-Generator: Zanata 3.8.2\n"
++"Plural-Forms: nplurals=1; plural=0\n"
+ 
+ #: ../backgrounds/adwaita.xml.in.in.h:1
+ msgid "Default Background"
+@@ -124,132 +123,3 @@
+ #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+ msgid "Whispy Tails"
+ msgstr "狗尾草低語"
+-
+-#~ msgid "Blue Marble"
+-#~ msgstr "藍色大理石"
+-
+-#~ msgid "Spaceflare"
+-#~ msgstr "太空閃焰"
+-
+-#~ msgid "Stripes"
+-#~ msgstr "條紋"
+-
+-#~ msgid "Stripes 3.4"
+-#~ msgstr "條紋 3.4"
+-
+-#~ msgid "Sunset"
+-#~ msgstr "日落"
+-
+-#~ msgid "Tulip"
+-#~ msgstr "鬱金香"
+-
+-#~ msgid "Underlit"
+-#~ msgstr "點亮"
+-
+-#~ msgid "Wood"
+-#~ msgstr "木頭"
+-
+-#~ msgid "End Bell"
+-#~ msgstr "風鈴花"
+-
+-#~ msgid "Stamps"
+-#~ msgstr "郵票"
+-
+-#~ msgid "Aqua"
+-#~ msgstr "液體"
+-
+-#~ msgid "Fresh Flower"
+-#~ msgstr "艷麗鮮花"
+-
+-#~ msgid "Garden"
+-#~ msgstr "花園"
+-
+-#~ msgid "Green Meadow"
+-#~ msgstr "青草地"
+-
+-#~ msgid "Spaceflare Nova"
+-#~ msgstr "太空閃焰 新星"
+-
+-#~ msgid "Spaceflare Supernova"
+-#~ msgstr "太空閃焰 超新星"
+-
+-#~ msgid "Sundown Dunes"
+-#~ msgstr "落日沙丘"
+-
+-#~ msgid "Terraform Blue"
+-#~ msgstr "地球化 藍"
+-
+-#~ msgid "Terraform Orange"
+-#~ msgstr "地球化 橘"
+-
+-#~ msgid "Two Wings"
+-#~ msgstr "雙翼"
+-
+-#~ msgid "Yellow Flower"
+-#~ msgstr "黃花"
+-
+-#~ msgid "Flow"
+-#~ msgstr "流動"
+-
+-#~ msgid "Gulp"
+-#~ msgstr "茫"
+-
+-#~ msgid "Silk"
+-#~ msgstr "絲綢"
+-
+-#~ msgid "Spring"
+-#~ msgstr "春天"
+-
+-#~ msgid "Dune"
+-#~ msgstr "沙丘"
+-
+-#~ msgid "Lady Bird"
+-#~ msgstr "安然"
+-
+-#~ msgid "Rain Drops"
+-#~ msgstr "雨滴"
+-
+-#~ msgid "Storm"
+-#~ msgstr "暴風"
+-
+-#~ msgid "GNOME Curves"
+-#~ msgstr "GNOME 曲線"
+-
+-#~ msgid "Boats Pattern"
+-#~ msgstr "船狀"
+-
+-#~ msgid "Clouds Pattern"
+-#~ msgstr "雲狀"
+-
+-#~ msgid "Stars Pattern"
+-#~ msgstr "星狀"
+-
+-#~ msgid "Ellipses (Translucent)"
+-#~ msgstr "橢圓（半透明）"
+-
+-#~ msgid "Tentacles (Translucent)"
+-#~ msgstr "觸鬚（半透明）"
+-
+-#~ msgid "Aqua Foot (GNOME Branded)"
+-#~ msgstr "Aqua Foot（GNOME 標誌）"
+-
+-#~ msgid "Fraser Island (GNOME Branded)"
+-#~ msgstr "芬瑟島（GNOME 標誌）"
+-
+-#~ msgid "Red Blurred (GNOME Branded)"
+-#~ msgstr "模糊紅彩（半透明）"
+-
+-#~ msgid "Weird Colors (GNOME Branded)"
+-#~ msgstr "斜紋（GNOME 標誌）"
+-
+-#~ msgid "Alien Artifact (Translucent Tile)"
+-#~ msgstr "Alien Artifact（半透明鋪排）"
+-
+-#~ msgid "Cow Spots (Translucent Tile)"
+-#~ msgstr "牛型斑點（半透明鋪排）"
+-
+-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+-#~ msgstr "鑽石型圖案（半透明鋪排）"
+-
+-#~ msgid "Rectangles (Translucent)"
+-#~ msgstr "正方型（半透明）"

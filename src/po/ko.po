@@ -3,123 +3,188 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Young-Ho Cha <ganadist@gmail.com>, 2005-2008.
 # Changwoo Ryu <cwryu@debian.org>, 2011.
-# Seong-ho Cho <shcho@gnome.org>, 2012, 2014, 2016, 2018.
+# Seong-ho Cho <darkcircle.0426@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-02-20 22:54+0000\n"
-"PO-Revision-Date: 2018-02-25 12:27+0900\n"
-"Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
-"Language-Team: 한국어 <gnome-kr@googlegroups.com>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2012-09-20 19:06+0000\n"
+"PO-Revision-Date: 2012-09-21 13:46+0900\n"
+"Last-Translator: Seong-ho Cho <darkcircle.0426@gmail.com>\n"
+"Language-Team: GNOME Korea <gnome-kr@googlegroups.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 
-#: backgrounds/adwaita.xml.in.in:5
-msgid "Default Background"
-msgstr "기본 배경 화면"
+# XXX
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr "블라인드"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "뿌연 강아지풀"
+# 지구
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Blue Marble"
+msgstr "푸른 구슬"
 
-# Note: Boke를 그대로 직역하면 트림, 구역질 같은 의미인데, 이미지를 실제로 찾아보면 이런 제목이 들어갈 이유가 없다. Boke는 Bokeh의 오타일 가능성이 높음. 구글을 통해 이미지 검색을 해보면  'Bokeh', Lights', 'Abstract' 와 같은 키워드가 나온다. "Bokeh Lights". 이미지 출처: https://www.canva.com/photos/backgrounds-textures/MACVpAZP6l4-red-bokeh-glow-light-abstract-background/?query=Bokeh
-#: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "뿌연 불빛"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "민들레"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:19
-msgid "Cold &amp; Warm"
-msgstr "추운 날의 따스함"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:26
-msgid "Dark Ivy"
-msgstr "어두운 담쟁이덩굴"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:33
-msgid "Endless Shapes"
-msgstr "끝없이 펼친 도형 문자"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
 msgid "Pink Fabric"
 msgstr "분홍빛 천"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "꽃밭"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Foot Fall"
+msgstr "발바닥 방울"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
-msgid "Icescape"
-msgstr "설경"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "거울"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
-msgid "Adwaita"
-msgstr "애드와이타"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:68
-msgid "Sea Sunset"
-msgstr "바다의 석양"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Road"
 msgstr "도로"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Sandstone"
 msgstr "사암"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
-msgid "Symbolics 1"
-msgstr "상징 기호 1"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Spaceflare"
+msgstr "우주 불꽃"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
-msgid "Symbolics 2"
-msgstr "상징 기호 2"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Stripes"
+msgstr "줄무늬"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Stripes 3.4"
+msgstr "줄무늬 3.4"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Sunset"
+msgstr "석양"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Terraform Green"
+msgstr "테라폼 녹색"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Tulip"
+msgstr "튤립"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Underlit"
+msgstr "희미한 조명"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Waves"
+msgstr "물결"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Wood"
-msgstr "목재 벽면"
+msgstr "나무결"
 
-#~ msgid "Waterfalls"
-#~ msgstr "폭포수"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+msgid "End Bell"
+msgstr "종다리꽃"
 
-#~ msgid "Dandelion"
-#~ msgstr "민들레"
+#~ msgid "Sundown Dunes"
+#~ msgstr "일몰과 모래 언덕"
 
-#~ msgid "Lock Screen"
-#~ msgstr "화면 잠금"
+#~ msgid "Spaceflare Nova"
+#~ msgstr "우주 불꽃 신성"
 
-#~ msgid "Mirror"
-#~ msgstr "거울"
+#~ msgid "Spaceflare Supernova"
+#~ msgstr "우주 불꽃 초신성"
 
-#~ msgid "Signpost of the Shadows"
-#~ msgstr "표지판 그림자"
+#~ msgid "Terraform Blue"
+#~ msgstr "테라폼 파랑"
 
-#~ msgid "Stones"
-#~ msgstr "조약돌"
+#~ msgid "Terraform Orange"
+#~ msgstr "테라폼 주황"
 
-#~ msgid "Terraform Green"
-#~ msgstr "테라폼 녹색"
+#~ msgid "Fresh Flower"
+#~ msgstr "상큼한 꽃"
 
-#~ msgid "Waves"
-#~ msgstr "물결"
+#~ msgid "Green Meadow"
+#~ msgstr "잔디밭"
 
-#~ msgid "Godafoss Iceland"
-#~ msgstr "아이슬란드 가더퍼스"
+#~ msgid "Aqua"
+#~ msgstr "물"
 
-# XXX
-#~ msgid "Blinds"
-#~ msgstr "블라인드"
+#~ msgid "Two Wings"
+#~ msgstr "민들레 씨앗"
 
-#~ msgid "Foot Fall"
-#~ msgstr "발바닥 방울"
+#~ msgid "Yellow Flower"
+#~ msgstr "노란 꽃"
 
-#~ msgid "Whispy Tails"
-#~ msgstr "흔들리는 강아지풀"
+#~ msgid "Garden"
+#~ msgstr "정원"
+
+#~ msgid "Flow"
+#~ msgstr "흐름"
+
+#~ msgid "Gulp"
+#~ msgstr "억누름"
+
+#~ msgid "Silk"
+#~ msgstr "비단결"
+
+#~ msgid "Spring"
+#~ msgstr "비틀림"
+
+#~ msgid "Cosmos"
+#~ msgstr "우주"
+
+#~ msgid "Dune"
+#~ msgstr "모래언덕"
+
+#~ msgid "Lady Bird"
+#~ msgstr "무당벌레"
+
+#~ msgid "Rain Drops"
+#~ msgstr "빗방울"
+
+#~ msgid "Storm"
+#~ msgstr "폭풍"

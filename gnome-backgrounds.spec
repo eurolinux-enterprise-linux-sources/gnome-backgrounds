@@ -1,15 +1,15 @@
-Name: gnome-backgrounds
-Version: 3.28.0
-Release: 1%{?dist}
 Summary: Desktop backgrounds packaged with the GNOME desktop
-
+Name: gnome-backgrounds
+Version: 3.8.1
+Release: 3%{?dist}
 License: GPLv2
+Group: Applications/Multimedia
 URL: http://www.gnome.org
-Source0: https://download.gnome.org/sources/%{name}/3.28/%{name}-%{version}.tar.xz
-
+#VCS: git:git://git.gnome.org/gnome-backgrounds
+Source0: http://download.gnome.org/sources/gnome-backgrounds/3.8/%{name}-%{version}.tar.xz
 BuildArch: noarch
+BuildRequires: intltool
 BuildRequires: gettext
-BuildRequires: meson
 
 %description
 The gnome-backgrounds package contains images and tiles
@@ -20,11 +20,11 @@ with the GNOME desktop.
 %setup -q
 
 %build
-%meson
-%meson_build
+%configure
+make
 
 %install
-%meson_install
+make install DESTDIR=$RPM_BUILD_ROOT
 
 mkdir -p $RPM_BUILD_ROOT%{_datadir}/backgrounds/images
 
@@ -32,28 +32,11 @@ mkdir -p $RPM_BUILD_ROOT%{_datadir}/backgrounds/images
 rm -rf $RPM_BUILD_ROOT%{_datadir}/locale
 
 %files
-%license COPYING
-%doc NEWS README AUTHORS
+%doc COPYING NEWS README AUTHORS
 %{_datadir}/gnome-background-properties
 %{_datadir}/backgrounds/*
 
 %changelog
-* Wed Mar 14 2018 Kalev Lember <klember@redhat.com> - 3.28.0-1
-- Update to 3.28.0
-- Resolves: #1569727
-
-* Fri Mar 10 2017 Matthias Clasen <mclasen@redhat.com> - 3.22.1-1
-- Rebase to 3.22.1
-  Resolves: rhbz#1386877
-
-* Fri Jul 01 2016 Kalev Lember <klember@redhat.com> - 3.14.1-2
-- Update translations
-- Resolves: #1304293
-
-* Wed Apr 29 2015 Matthias Clasen <mclasen@redhat.com> - 3.14.1-1
-- Update to 3.14.1
-- Resolves: #1174385
-
 * Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 3.8.1-3
 - Mass rebuild 2013-12-27
 

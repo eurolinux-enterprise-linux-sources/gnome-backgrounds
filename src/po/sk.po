@@ -7,135 +7,122 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-01-05 19:53+0000\n"
-"PO-Revision-Date: 2018-01-22 20:31+0100\n"
+"POT-Creation-Date: 2012-10-17 07:56+0000\n"
+"PO-Revision-Date: 2012-11-09 10:33+0000\n"
 "Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
 "Language-Team: Slovak <gnome-sk-list@gnome.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 1.5.4\n"
 
-#: backgrounds/adwaita.xml.in.in:5
-msgid "Default Background"
-msgstr "Predvolené pozadie"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr "Rolety"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Bokeh stebiel"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Blue Marble"
+msgstr "Zemeguľa"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "A ja to volám Boke"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Púpava"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:19
-msgid "Cold &amp; Warm"
-msgstr "Chlad a teplo"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:26
-msgid "Dark Ivy"
-msgstr "Tmavý brečtan"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:33
-msgid "Endless Shapes"
-msgstr "Nekonečné tvary"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
 msgid "Pink Fabric"
 msgstr "Ružová látka"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Posteľ z kvetov"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Foot Fall"
+msgstr "Chodidlá z kvapiek"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
-msgid "Icescape"
-msgstr "Ľadovcová krajina"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "Odraz"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
-msgid "Adwaita"
-msgstr "Adwaita"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:68
-msgid "Sea Sunset"
-msgstr "Západ slnka na mori"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Road"
 msgstr "Cesta"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Sandstone"
 msgstr "Pieskovec"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
-msgid "Symbolics 1"
-msgstr "Symbolika č. 1"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Spaceflare"
+msgstr "Vesmírna žiara"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
-msgid "Symbolics 2"
-msgstr "Symbolika č. 2"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Stripes"
+msgstr "Pruhy"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Stripes 3.4"
+msgstr "Pruhy 3.4"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Sunset"
+msgstr "Západ slnka"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Terraform Green"
+msgstr "Zelený terén"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Tulip"
+msgstr "Tulipány"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Underlit"
+msgstr "Podsvietenie"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Waves"
+msgstr "Vlny"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Wood"
 msgstr "Drevo"
 
-#~ msgid "Waterfalls"
-#~ msgstr "Vodopády"
-
-#~ msgid "Dandelion"
-#~ msgstr "Púpava"
-
-#~ msgid "Lock Screen"
-#~ msgstr "Uzamknutá obrazovka"
-
-#~ msgid "Mirror"
-#~ msgstr "Odraz"
-
-#~ msgid "Signpost of the Shadows"
-#~ msgstr "Tieň smerovej tabule"
-
-#~ msgid "Stones"
-#~ msgstr "Kamene"
-
-#~ msgid "Terraform Green"
-#~ msgstr "Zelený povrch"
-
-#~ msgid "Waves"
-#~ msgstr "Vlny"
-
-#~ msgid "Godafoss Iceland"
-#~ msgstr "Godafoss Island"
-
-#~ msgid "Blinds"
-#~ msgstr "Rolety"
-
-#~ msgid "Foot Fall"
-#~ msgstr "Chodidlá z kvapiek"
-
-#~ msgid "Whispy Tails"
-#~ msgstr "Šuštiace steblá"
-
-#~ msgid "Blue Marble"
-#~ msgstr "Zemeguľa"
-
-#~ msgid "Spaceflare"
-#~ msgstr "Vesmírna žiara"
-
-#~ msgid "Stripes"
-#~ msgstr "Pruhy"
-
-#~ msgid "Stripes 3.4"
-#~ msgstr "Pruhy 3.4"
-
-#~ msgid "Tulip"
-#~ msgstr "Tulipány"
-
-#~ msgid "Underlit"
-#~ msgstr "Podsvietenie"
-
-#~ msgid "End Bell"
-#~ msgstr "Zvonček"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+msgid "End Bell"
+msgstr "Zvonček"

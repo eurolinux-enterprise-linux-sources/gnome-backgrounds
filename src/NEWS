@@ -1,3 +1,43 @@
+==============
+Version 3.28.0
+==============
+
+===============
+Version 3.27.90
+===============
+
+- new build system
+- new defaults
+- new supplemental additions
+
+===============
+Version 3.26.2
+===============
+
+- include meson files in the tarball
+- make sure Signpost_of_the_Shadows.jpg gets installed
+
+===============
+Version 3.26.1
+===============
+
+- fix build issue
+
+===============
+Version 3.26.0
+===============
+Version 3.25.5
+===============
+- new build system (Florian)
+- drop translations (not exposed in the UI)
+- 3.26 defaults
+
+===============
+Version  3.24.0
+Version 3.23.91
+===============
+- default
+
 ===============
 Version 3.22.1
 ===============

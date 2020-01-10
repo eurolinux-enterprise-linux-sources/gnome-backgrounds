@@ -1,15 +1,15 @@
 Name: gnome-backgrounds
-Version: 3.22.1
+Version: 3.28.0
 Release: 1%{?dist}
 Summary: Desktop backgrounds packaged with the GNOME desktop
 
 License: GPLv2
 URL: http://www.gnome.org
-Source0: https://download.gnome.org/sources/%{name}/3.22/%{name}-%{version}.tar.xz
+Source0: https://download.gnome.org/sources/%{name}/3.28/%{name}-%{version}.tar.xz
 
 BuildArch: noarch
-BuildRequires: intltool
 BuildRequires: gettext
+BuildRequires: meson
 
 %description
 The gnome-backgrounds package contains images and tiles
@@ -20,11 +20,11 @@ with the GNOME desktop.
 %setup -q
 
 %build
-%configure
-make
+%meson
+%meson_build
 
 %install
-%make_install
+%meson_install
 
 mkdir -p $RPM_BUILD_ROOT%{_datadir}/backgrounds/images
 
@@ -38,6 +38,10 @@ rm -rf $RPM_BUILD_ROOT%{_datadir}/locale
 %{_datadir}/backgrounds/*
 
 %changelog
+* Wed Mar 14 2018 Kalev Lember <klember@redhat.com> - 3.28.0-1
+- Update to 3.28.0
+- Resolves: #1569727
+
 * Fri Mar 10 2017 Matthias Clasen <mclasen@redhat.com> - 3.22.1-1
 - Rebase to 3.22.1
   Resolves: rhbz#1386877

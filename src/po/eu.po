@@ -1,0 +1,179 @@
+# Basque translation of gnome-backgrounds.
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2005, 2006, 2008, 2010, 2011, 2012.
+# Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2013, 2014.
+# Asier Sarasua Garmendi <asiersar@yahoo.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-03-25 21:10+0100\n"
+"PO-Revision-Date: 2014-03-25 21:19+0100\n"
+"Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@zundan.com>\n"
+"Language-Team: Basque <librezale@librezale.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.4\n"
+"X-Project-Style: gnome\n"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr "Hosto-pertsianak"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Bokeh Tails"
+msgstr "Galburu lausotuak"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Txikoria-belarra"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Dark Ivy"
+msgstr "Huntz iluna"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Pink Fabric"
+msgstr "Ehun arrosa"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Flower Bed"
+msgstr "Lorezko ohea"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+msgid "Foot Fall"
+msgstr "Oinatza"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Lock Screen"
+msgstr "Pantaila blokeatuta"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Mirror"
+msgstr "Ispilua"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Road"
+msgstr "Bidea"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Sandstone"
+msgstr "Hareharria"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Signpost of the Shadows"
+msgstr "Itzalezko helbide adierazlea"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Stones"
+msgstr "Harri txintxorrak"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Terraform Green"
+msgstr "Lurraren gainazal berdea"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Waves"
+msgstr "Uhinak"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Whispy Tails"
+msgstr "Galburu urdinak"
+
+#~ msgid "Blue Marble"
+#~ msgstr "Marmol urdina"
+
+#~ msgid "Spaceflare"
+#~ msgstr "Espazioko distira"
+
+#~ msgid "Stripes"
+#~ msgstr "Marrak"
+
+#~ msgid "Stripes 3.4"
+#~ msgstr "Marrak 3.4"
+
+#~ msgid "Sunset"
+#~ msgstr "Ilunabarra"
+
+#~ msgid "Tulip"
+#~ msgstr "Idi-bihotza"
+
+#~ msgid "Wood"
+#~ msgstr "Egurra"
+
+#~ msgid "End Bell"
+#~ msgstr "Muturreko kanpaia"
+
+#~ msgid "Underlit"
+#~ msgstr "Azpiko argia"
+
+#~ msgid "Aqua"
+#~ msgstr "Ura"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "Lora freskoa"
+
+#~ msgid "Garden"
+#~ msgstr "Lorategia"
+
+#~ msgid "Green Meadow"
+#~ msgstr "Belardi berdea"
+
+#~ msgid "Spaceflare Nova"
+#~ msgstr "Espazioko nobaren distira"
+
+#~ msgid "Spaceflare Supernova"
+#~ msgstr "Espazioko supernobaren distira"
+
+#~ msgid "Sundown Dunes"
+#~ msgstr "Eguzki-sarrera dunetan"
+
+#~ msgid "Terraform Blue"
+#~ msgstr "Lurraren gainazal urdina"
+
+#~ msgid "Terraform Orange"
+#~ msgstr "Lurraren gainazal laranja"
+
+#~ msgid "Two Wings"
+#~ msgstr "Bi hego"
+
+#~ msgid "Yellow Flower"
+#~ msgstr "Lore horia"

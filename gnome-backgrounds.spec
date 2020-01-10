@@ -1,13 +1,12 @@
-Summary: Desktop backgrounds packaged with the GNOME desktop
 Name: gnome-backgrounds
-Version: 3.14.1
-Release: 2%{?dist}
+Version: 3.22.1
+Release: 1%{?dist}
+Summary: Desktop backgrounds packaged with the GNOME desktop
+
 License: GPLv2
-Group: Applications/Multimedia
 URL: http://www.gnome.org
-#VCS: git:git://git.gnome.org/gnome-backgrounds
-Source0: http://download.gnome.org/sources/gnome-backgrounds/3.14/%{name}-%{version}.tar.xz
-Patch0: gnome-backgrounds-3.14.1-EL7.3_translations.patch
+Source0: https://download.gnome.org/sources/%{name}/3.22/%{name}-%{version}.tar.xz
+
 BuildArch: noarch
 BuildRequires: intltool
 BuildRequires: gettext
@@ -19,14 +18,13 @@ with the GNOME desktop.
 
 %prep
 %setup -q
-%patch0 -p1 -b .translations
 
 %build
 %configure
 make
 
 %install
-make install DESTDIR=$RPM_BUILD_ROOT
+%make_install
 
 mkdir -p $RPM_BUILD_ROOT%{_datadir}/backgrounds/images
 
@@ -34,11 +32,16 @@ mkdir -p $RPM_BUILD_ROOT%{_datadir}/backgrounds/images
 rm -rf $RPM_BUILD_ROOT%{_datadir}/locale
 
 %files
-%doc COPYING NEWS README AUTHORS
+%license COPYING
+%doc NEWS README AUTHORS
 %{_datadir}/gnome-background-properties
 %{_datadir}/backgrounds/*
 
 %changelog
+* Fri Mar 10 2017 Matthias Clasen <mclasen@redhat.com> - 3.22.1-1
+- Rebase to 3.22.1
+  Resolves: rhbz#1386877
+
 * Fri Jul 01 2016 Kalev Lember <klember@redhat.com> - 3.14.1-2
 - Update translations
 - Resolves: #1304293

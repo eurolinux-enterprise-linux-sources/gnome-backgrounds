@@ -1,69 +1,69 @@
-# Aragonese translation for gnome-backgrounds.
-# Copyright (C) 2010 gnome-backgrounds's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-backgrounds package.
-# Daniel Martinez <entaltoaragon@gmail.com>, 2010, 2011, 2012, 2015.
+# translation of gnome-backgrounds.master.po to Icelandic
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
 #
+# Sveinn í Felli <sv1@fellsnet.is>, 2015, 2016.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds master\n"
+"Project-Id-Version: gnome-backgrounds.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-03-19 18:55+0000\n"
-"PO-Revision-Date: 2015-03-19 23:34+0100\n"
-"Last-Translator: Daniel Martinez <entaltoaragon@gmail.com>\n"
-"Language-Team: Aragonés <softaragones@googlegroups.com>\n"
-"Language: an\n"
+"POT-Creation-Date: 2016-07-10 06:45+0000\n"
+"PO-Revision-Date: 2016-08-12 11:36+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=(n%10!=1 || n%100==11);\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
-msgstr "Fondo predeterminau"
+msgstr "Sjálfgefinn bakgrunnur"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blinds"
-msgstr "Cortinas"
+msgstr "Strimlar"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
 msgid "Bokeh Tails"
-msgstr "Espigas"
+msgstr "Stráengi"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
 msgid "Dandelion"
-msgstr "Dandelion"
+msgstr "Biðukolla"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
 msgid "Dark Ivy"
-msgstr "Plevida d'agüerro"
+msgstr "Dökkar netlur"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
 msgid "Pink Fabric"
-msgstr "Tela rosa"
+msgstr "Bleikur vefnaður"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
 msgid "Flower Bed"
-msgstr "Cama de flors"
+msgstr "Blómabeð"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Foot Fall"
-msgstr "Chislas de pietz"
+msgstr "Fótadögg"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -75,138 +75,55 @@ msgstr "Adwaita"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Lock Screen"
-msgstr "Pantalla blocada"
+msgstr "Adwaita - læst"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Mirror"
-msgstr "Espiello"
+msgstr "Speglun"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Road"
-msgstr "Carretera"
+msgstr "Vegur"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sandstone"
-msgstr "Piedra roya"
+msgstr "Sandsteinn"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Signpost of the Shadows"
-msgstr "Uembra de poste"
+msgstr "Vegmerking"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
-#| msgid "Sandstone"
 msgid "Stones"
-msgstr "Piedras"
+msgstr "Steinar"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Terraform Green"
-msgstr "Tierra verda"
+msgstr "Græn jarðarform"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Waves"
-msgstr "Onda"
+msgstr "Öldur"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Espigas azulas"
+msgid "Godafoss Iceland"
+msgstr "Goðafoss á Íslandi"
 
-#~ msgid "Blue Marble"
-#~ msgstr "Bola azula"
-
-#~ msgid "Spaceflare"
-#~ msgstr "Borracadura"
-
-#~ msgid "Stripes"
-#~ msgstr "Ringleras"
-
-#~| msgid "Stripes"
-#~ msgid "Stripes 3.4"
-#~ msgstr "Ringleras"
-
-#~ msgid "Sunset"
-#~ msgstr "Ocaso"
-
-#~ msgid "Tulip"
-#~ msgstr "Tulipanes"
-
-#~ msgid "Underlit"
-#~ msgstr "Foscor"
-
-#~ msgid "Wood"
-#~ msgstr "Fusta"
-
-#~ msgid "End Bell"
-#~ msgstr "Campana final"
-
-#~ msgid "Aqua"
-#~ msgstr "Augua"
-
-#~ msgid "Fresh Flower"
-#~ msgstr "Flor fresca"
-
-#~ msgid "Garden"
-#~ msgstr "Chardín"
-
-#~ msgid "Green Meadow"
-#~ msgstr "Pradera verda"
-
-#~ msgid "Spaceflare Nova"
-#~ msgstr "Borracadura de nova"
-
-#~ msgid "Spaceflare Supernova"
-#~ msgstr "Borracadura de supernova"
-
-#~ msgid "Sundown Dunes"
-#~ msgstr "Ocaso en as dunas"
-
-#~ msgid "Terraform Blue"
-#~ msgstr "Tierra azula"
-
-#~ msgid "Terraform Orange"
-#~ msgstr "Tierra narancha"
-
-#~ msgid "Two Wings"
-#~ msgstr "Dos alas"
-
-#~ msgid "Yellow Flower"
-#~ msgstr "Flor amariella"
-
-#~ msgid "Flow"
-#~ msgstr "Fluixo"
-
-#~ msgid "Gulp"
-#~ msgstr "Trago"
-
-#~ msgid "Silk"
-#~ msgstr "Seda"
-
-#~ msgid "Spring"
-#~ msgstr "Primavera"
-
-#~ msgid "Dune"
-#~ msgstr "Duna"
-
-#~ msgid "Lady Bird"
-#~ msgstr "Cuqueta de Dios"
-
-#~ msgid "Rain Drops"
-#~ msgstr "Chislas de plevia"
-
-#~ msgid "Storm"
-#~ msgstr "Tronada"
+#~ msgid "Whispy Tails"
+#~ msgstr "Strágrátt"

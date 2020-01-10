@@ -6,20 +6,20 @@ background_DATA =\
 	adwaita-morning.jpg \
 	adwaita-night.jpg \
 	adwaita-timed.xml \
-	Blinds.jpg \
 	Bokeh_Tails.jpg \
 	Chmiri.jpg \
 	Dark_Ivy.jpg \
 	Fabric.jpg \
 	Flowerbed.jpg \
-	FootFall.png \
+	Godafoss_Iceland.jpg \
+	Icescape.jpg \
 	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
 	Stones.jpg \
 	Terraform-green.jpg \
-	Waves.jpg \
-	Whispy_Tails.jpg
+	Waterfalls.jpg \
+	Waves.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in adwaita.xml.in
 metadatadir = $(datadir)/gnome-background-properties
